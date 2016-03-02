@@ -1,0 +1,6 @@
+%Matlab
+function print_sangee(a)
+for i=1:a
+  disp('Hi Sangee....!!!');
+end  
+end
